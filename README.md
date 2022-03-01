@@ -10,7 +10,7 @@
 ### Languages and Tools
 <div style="text-align:center">
 <img alt="HTML" title="HTML" width="45px" src="https://lenguajehtml.com/assets/logo.svg" />
-<img  alt="CSS" title="CSS" width="45px" src="https://w7.pngwing.com/pngs/604/592/png-transparent-css3-cascading-style-sheets-logo-html-beautify-blue-angle-text-thumbnail.png" />
+<img  alt="CSS" title="CSS" width="45px" src="https://img2.freepng.es/20180402/csq/kisspng-css3-cascading-style-sheets-computer-icons-html-emblem-5ac245f0d27847.8044648115226813288621.jpg" />
 <img alt=SASS" title="SASS" width="45px" src="https://cdn.freelogovectors.net/wp-content/uploads/2019/02/sass-logo.png" />
 <img alt=Bootstrap" title="Bootstrap" width="45px" src="https://iconape.com/wp-content/files/vp/370638/svg/bootstrap-logo-icon-png-svg.png" />
                                                                                                                        
