@@ -23,7 +23,10 @@
 <img alt="Firebase" title="Firebase" width="45px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
 <img alt="MySQL" title="MySQL" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 <img alt="PostgreSQL" title="PostgreSQL" width="45px" src="https://user-images.githubusercontent.com/61010275/156266890-7098890f-94e9-4d1e-870d-9715f744c8de.png" />
-                                                                                                                
+<img alt="Git" title=Git" width="45px" src="https://user-images.githubusercontent.com/61010275/156268989-098b1e8c-4ecb-4e44-8a3f-b13e1528661d.png" />
+
+
+                                                                                                      
 </div>
 
 
