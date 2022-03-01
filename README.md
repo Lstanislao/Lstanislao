@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Luis Stanislao 👨🏻‍💻</h1>
-<h2 align="center">I am web developer specialized Front-End with knowledge in Back-End, who is always looking new challenges and never stop learning.</h1>
+<p align="center">I am web developer specialized Front-End with knowledge in Back-End, who is always looking new challenges and never stop learning.</h1>
 
 
 
