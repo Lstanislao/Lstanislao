@@ -1,4 +1,4 @@
-### Hi there 👋![image](https://user-images.githubusercontent.com/61010275/156259247-5edef47a-03a1-4c3b-849e-9ed491b955a0.png)
+### Hi there 👋👨🏻‍💻, I'm Luis Stanislao
 
 
 <!--
