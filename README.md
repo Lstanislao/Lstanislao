@@ -4,7 +4,7 @@
 ### Connect with me
 <a href="https://www.linkedin.com/in/luis-stanislao-70248817b/" target="blank"><img align="center" src="https://img.icons8.com/color/32/000000/linkedin.png"  width="40" /></a>
 <a href="https://www.instagram.com/luis_stanislao" target="blank"><img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png"  width="40" /></a>
-<a href="https://www.instagram.com/luis_stanislao" target="blank"><img align="center" src="https://img.icons8.com/external-prettycons-flat-prettycons/47/000000/external-web-page-web-and-seo-prettycons-flat-prettycons.png"  width="37" /></a>
+<a href="https://www.instagram.com/luis_stanislao" target="blank"><img align="center" src="https://img.icons8.com/external-prettycons-flat-prettycons/47/000000/external-web-page-web-and-seo-prettycons-flat-prettycons.png"  width="35" /></a>
 
 
 ### Languages and Tools
