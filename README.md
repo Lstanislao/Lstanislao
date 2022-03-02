@@ -21,7 +21,7 @@
 <img alt="Express" title="Express" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
 <img alt="Socket.io" title="Socket.io" width="45px" src="https://user-images.githubusercontent.com/61010275/156266760-e33e5f60-fd06-424b-af4a-d7f3b33f6e39.png" />
 <img alt="Firebase" title="Firebase" width="45px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />
-<img alt="MongoDB" title="MongoDb" width="45px" src="https://w7.pngwing.com/pngs/768/167/png-transparent-mongodb-nosql-document-oriented-database-nosql-icon-leaf-grass-business.png" />
+<img alt="MongoDB" title="MongoDb" width="45px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" />
 <img alt="MySQL" title="MySQL" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 <img alt="PostgreSQL" title="PostgreSQL" width="45px" src="https://user-images.githubusercontent.com/61010275/156266890-7098890f-94e9-4d1e-870d-9715f744c8de.png" />
 <img alt="Git" title=Git" width="45px" src="https://user-images.githubusercontent.com/61010275/156268989-098b1e8c-4ecb-4e44-8a3f-b13e1528661d.png" />
