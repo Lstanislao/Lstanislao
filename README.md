@@ -17,6 +17,7 @@
 <img  alt="JS" title="JS" width="45px" src="https://user-images.githubusercontent.com/61010275/156266165-77e90993-31d1-4861-b8a2-eca162584297.png" />
 <img alt="TS" title="TS" width="45px" src="https://user-images.githubusercontent.com/61010275/156266269-609b3f7b-dfed-4d02-855f-72ba62abf505.png" />
 <img alt="React" title="React" width="45px" src="https://user-images.githubusercontent.com/61010275/156266326-40c0d37b-3aad-491b-90d7-af845a92710b.png" />
+<img  alt="NextJs" width="45"  src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" />
 <img alt="Angular" title="Angular" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/250px-Angular_full_color_logo.svg.png" />
 <img alt="Express" title="Express" width="45px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
 <img alt="Socket.io" title="Socket.io" width="45px" src="https://user-images.githubusercontent.com/61010275/156266760-e33e5f60-fd06-424b-af4a-d7f3b33f6e39.png" />
