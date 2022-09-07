@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Luis Stanislao 👨🏻‍💻</h1>
-<p align="center">I am web developer specialized Front-End and knowledge in Back-End, who is always looking new challenges and never stop learning.</h1>
+<p align="center">I am web developer specialized Front-End and knowledge in Back-End.I am always looking for new challenges and never stop learning.</h1>
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/luis-stanislao-70248817b/" target="blank"><img align="center" src="https://img.icons8.com/color/32/000000/linkedin.png"  width="40" /></a>
