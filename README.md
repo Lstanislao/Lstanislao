@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Luis Stanislao 👨🏻‍💻</h1>
-<p align="center">I am FullStack developer.I am always looking for new challenges</h1>
+<p align="center">I am FullStack developer</h1>
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/luis-stanislao-70248817b/" target="blank"><img align="center" src="https://img.icons8.com/color/32/000000/linkedin.png"  width="40" /></a>
